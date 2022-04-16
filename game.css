@@ -1,0 +1,46 @@
+body
+{
+	background:linear-gradient(#F5ED00 0%, #db045e 100%);
+}
+
+	.login_div1 , .login_div2
+	{    
+		margin-top: 300px;
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#Add_button {
+	width: 300px;
+	height: 50px;
+	font-size: 30;
+	margin-top: 130px;
+}
+#Send_Button {
+	margin-top: 825px;
+}
